@@ -1,8 +1,15 @@
 //your JS code here. If required.
  const sound=[
-	 "http://commondatastorage.googleapis.com/codeskulptor-assets/Epoq-Lepidoptera.ogg",
-	 "http://commondatastorage.googleapis.com/codeskulptor-assets/Epoq-Lepidoptera.ogg",
- ];
+	'baralho-101467.mp3',
+	 'aduio-1-20577.mp3',
+		'baralho-101467.mp3',
+	 'aduio-1-20577.mp3',
+	'baralho-101467.mp3',
+	 'baralho-101467.mp3',
+	 
+
+];
+	 
 let currentAudio;
 function PlayingAudio(sound) {
 	if(currentAudio){
