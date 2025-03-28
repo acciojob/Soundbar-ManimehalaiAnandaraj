@@ -7,7 +7,7 @@ function PlayingAudio(sound) {
 	if(currentAudio){
 		stopSound();
 	}
-	currentAudio=new Audio(`sound/${"C:\Users\AnandMehalai\Downloads\Theatre Applause - QuickSounds.com.mp3"}.mp3`);
+	currentAudio=new Audio(`sound/${"sound"}.mp3`);
 	currentAudio.play();
 }
 
