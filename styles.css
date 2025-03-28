@@ -1,1 +1,24 @@
 /*  your css code here. If applicable */
+#soundbar{
+	height:200px;
+	text-align:center;
+	background-color:mediumpurple;
+	color:white;
+	display:center
+}
+.btn,.stop{
+	text-align:center;
+	
+	background-color:darkblue;
+	color:white;
+	display:inline-block
+}
+
+#buttons{
+  
+	display:flex;
+	justify-content:space-around;
+	
+	
+	
+}
