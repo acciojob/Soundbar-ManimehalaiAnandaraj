@@ -1,6 +1,6 @@
 //your JS code here. If required.
 let currentAudio;
-function playSound(sound) {
+function PlayingAudio(sound) {
 	if(currentAudio){
 		stopSound();
 	}
