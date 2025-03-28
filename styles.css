@@ -4,7 +4,8 @@
 	text-align:center;
 	background-color:mediumpurple;
 	color:white;
-	display:center
+	padding:20px;
+	margin:0 0 0 0;
 }
 .btn,.stop{
 	text-align:center;
@@ -15,10 +16,7 @@
 }
 
 #buttons{
-  
 	display:flex;
-	justify-content:space-around;
 	
-	
-	
+	justify-content:space-around;	
 }

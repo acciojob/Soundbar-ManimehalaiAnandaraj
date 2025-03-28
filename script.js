@@ -1,10 +1,13 @@
 //your JS code here. If required.
+let Audio {
+	
+}
 let currentAudio;
 function PlayingAudio(sound) {
 	if(currentAudio){
 		stopSound();
 	}
-	currentAudio=new Audio(`sound/${sound}.mp3`);
+	currentAudio=new Audio(`sound/${horse}.mp3`);
 	currentAudio.play();
 }
 
