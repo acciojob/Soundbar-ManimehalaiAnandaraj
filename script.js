@@ -1,7 +1,8 @@
 //your JS code here. If required.
-let Audio {
-	
-}
+ const sound=[
+	 "http://commondatastorage.googleapis.com/codeskulptor-assets/Epoq-Lepidoptera.ogg",
+	 "http://commondatastorage.googleapis.com/codeskulptor-assets/Epoq-Lepidoptera.ogg",
+ ];
 let currentAudio;
 function PlayingAudio(sound) {
 	if(currentAudio){
