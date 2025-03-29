@@ -25,5 +25,6 @@ function stopSound() {
 		currentAudio.currentTime=0;
 		currentAudio=null;
 	}
+	}
 	
 }
