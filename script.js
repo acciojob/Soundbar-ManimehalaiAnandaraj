@@ -1,11 +1,11 @@
 //your JS code here. If required.
 const sounds={
-	'applause':'baralho-101467.mp3',
-	'boo':'aduio-1-20577.mp3',
-	'gasp':'baralho-101467.mp3',
-	'tada': 'aduio-1-20577.mp3',
-	'victory':'baralho-101467.mp3',
-	'wrong': 'baralho-101467.mp3',
+	'applausehttps:'https://samplelib.com/lib/preview/mp3/sample-3s.mp3',
+	'boo':'https://samplelib.com/lib/preview/mp3/sample-3s.mp3',
+	'gasp':'https://samplelib.com/lib/preview/mp3/sample-3s.mp3',
+	'tada': 'https://samplelib.com/lib/preview/mp3/sample-3s.mp3',
+	'victory':'https://samplelib.com/lib/preview/mp3/sample-3s.mp3',
+	'wrong': 'https://samplelib.com/lib/preview/mp3/sample-3s.mp3',
 };
 
 let currentAudio;
