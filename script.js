@@ -1,6 +1,6 @@
 //your JS code here. If required.
 const sounds={
-	'applausehttps':'https://samplelib.com/lib/preview/mp3/sample-3s.mp3',
+	'applause':'https://samplelib.com/lib/preview/mp3/sample-3s.mp3',
 	'boo':'https://samplelib.com/lib/preview/mp3/sample-3s.mp3',
 	'gasp':'https://samplelib.com/lib/preview/mp3/sample-3s.mp3',
 	'tada': 'https://samplelib.com/lib/preview/mp3/sample-3s.mp3',
